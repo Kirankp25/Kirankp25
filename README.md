@@ -1,11 +1,11 @@
-###                                                                      Hey 👋 , I'm Kiran
+###                                                                  Hey 👋 , I'm Kiran
 ###                                                              A passionate Coding Enthusiast
 
-
+🤷‍♂️
 
 🔭 I’m currently working on Web Devlopment
 
-🌱 I’m currently learning Javascript .Reactjs etc.
+🌱 I’m currently learning Javascript ,Reactjs etc.
 
 💬 Ask me about DSA, Frontend, Git etc.
 
@@ -17,7 +17,7 @@ Connect with me:
 @Kirankp25
 
 Languages and Tools:
-bootstrap c cplusplus css3 git html5 javascript kubernetes linux python react unreal
+bootstrap c cplusplus css3 git html5 javascriptpython react 
 
 
 
