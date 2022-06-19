@@ -1,10 +1,7 @@
-### Hey 👋 , I'm Kiran
-A passionate Open-Source Enthusiast
-GIF
+###                                                                      Hey 👋 , I'm Kiran
+###                                                              A passionate Coding Enthusiast
 
-Kirankp25
 
-pruthvirajjad
 
 🔭 I’m currently working on Web Devlopment
 
@@ -17,12 +14,10 @@ pruthvirajjad
 ⚡ Fun fact HTML is not a programming language 😁.
 
 Connect with me:
-pruthvirajjad pruthviraj jadhav @pruthvirajjadhav1
+@Kirankp25
 
 Languages and Tools:
 bootstrap c cplusplus css3 git html5 javascript kubernetes linux python react unreal
-Kirankp25
 
-Kirankp25
 
 
