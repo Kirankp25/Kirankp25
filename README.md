@@ -1,16 +1,11 @@
 ### Hey I'm Kiran 👋
 
-
-**Kirankp25/Kirankp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Structure and Algorithm
-- 👯 I’m looking to collaborate on my projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<!-- - 👯 I’m looking to collaborate on my projects -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about DSA and UI/UX Designing
+- 📫 How to reach me: jnvkirankp25522@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: HTML is not a programming langauge
 
