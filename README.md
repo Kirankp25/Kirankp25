@@ -1,5 +1,5 @@
 ###                                                                  Hey 👋 , I'm Kiran
-###                                                              A passionate Coding Enthusiast
+###                                                              A passionate Coder
 
 🤷‍♂️
 
@@ -17,7 +17,7 @@ Connect with me:
 @Kirankp25
 
 Languages and Tools:
-bootstrap c cplusplus css3 git html5 javascriptpython react 
+bootstrap c cplusplus css3 git html5 javascriptpython react etc.
 
 
 
