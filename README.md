@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kiranpa41334595" target="blank"><img src="https://img.shields.io/twitter/follow/kiranpa41334595?logo=twitter&style=for-the-badge" alt="kiranpa41334595" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kiranpa41334595" target="blank"><img src="https://img.shields.io/twitter/follow/kiranpa41334595?logo=twitter&style=for-the-badge" alt="kiran_Patil25" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend Development**
 
