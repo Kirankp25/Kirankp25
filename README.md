@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/kiran_patil25" target="blank"><img src="https://img.shields.io/twitter/follow/kiran_patil25?logo=twitter&style=for-the-badge" alt="kiran_patil25" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JavaScript React and solidity etc.**
+- 🌱 I’m currently learning **Cloud services**
 
-- 💬 Ask me about **DSA, Frontend and Git etc.**
+- 💬 Ask me **Data Structures and Algorithms**
 
-- 📫 How to reach me **jnvkirankp25522@gmail.com**
+- 📫 Connect me **jnvkirankp25522@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
