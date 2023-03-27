@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h2 align="center">A passionate Developer</h2>
-<img align="right" width="450" height="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" width="450" height="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankp25&label=Profile%20views&color=0e75b6&style=flat" alt="kirankp25" /> </p>
